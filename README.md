@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fby_sub_category.php%3Fid%3D211987%26name%3DGit%2BPap%25C3%25A9is%2Bde%2BParede%26lang%3DPortuguese&psig=AOvVaw0ZCDvD4sROb4Da4D06p6Gb&ust=1623427992146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi5i9u6jfECFQAAAAAdAAAAABAD" width="90%">
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/fundo_teste.jpg" width="90%">
 
 ### Hi there 👋
 <!--
