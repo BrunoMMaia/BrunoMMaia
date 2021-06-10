@@ -1,4 +1,4 @@
-<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/picasion.com_93faa15b1d8e0baddfc54d0a602f3422.gif?raw=true" width="20%">
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/picasion.com_93faa15b1d8e0baddfc54d0a602f3422.gif?raw=true">
 
 ### Hi there 👋
 <!--
