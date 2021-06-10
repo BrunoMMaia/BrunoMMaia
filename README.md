@@ -1,4 +1,4 @@
-<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/master/fundo_teste.jpg">
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/fundo_teste.jpg">
 
 
 ### Hi there 👋
