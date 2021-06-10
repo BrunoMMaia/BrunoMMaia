@@ -1,4 +1,4 @@
-<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/fundo_teste.jpg" width="90%">
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/fundo_teste.jpg" width="20%">
 
 ### Hi there 👋
 <!--
