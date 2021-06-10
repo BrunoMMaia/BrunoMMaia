@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/master/fundo_teste.jpg">
 
 
 ### Hi there 👋
