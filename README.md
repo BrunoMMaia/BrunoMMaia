@@ -1,4 +1,3 @@
-<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/picasion.com_93faa15b1d8e0baddfc54d0a602f3422.gif?raw=true">
 
 ### Hi there 👋
 <!--
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/header_.png?raw=true">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMMaia)](https://github.com/BrunoMMaia/github-readme-stats)
