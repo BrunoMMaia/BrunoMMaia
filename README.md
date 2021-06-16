@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/header_.png?raw=true">
 
 
-![Snake animation](https://github.com/brunommaia/brunommaia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrunoMMaia/BrunoMMaia/blob/main/main.yml)
 
 
 
