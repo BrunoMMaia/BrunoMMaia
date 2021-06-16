@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/BrunoMMaia/BrunoMMaia/blob/main/header_.png?raw=true">
 
 
-![Snake animation](https://github.com/BrunoMMaia/BrunoMMaia/blob/main/main.yml)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMMaia)](https://github.com/BrunoMMaia/github-readme-stats)
 
